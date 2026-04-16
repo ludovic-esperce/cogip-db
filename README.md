@@ -26,7 +26,7 @@ Pour instancier le container, exécuter la commande suivante :
 docker compose -d
 ```
 
-Veillez à faire attention au **conflits de ports** (notamment avec les services pré-installés en local) et modifiez la redirection de port en fonction.
+Veillez à faire attention au **conflits de ports** (notamment avec les services pré-installés en local) et modifier la redirection de port en fonction.
 
 ## Acccès à la BDD
 
