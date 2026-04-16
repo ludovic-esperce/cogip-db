@@ -42,7 +42,7 @@ Vous pouvez également vous connecter en utilisant un client de BDD tel que :
 
 Comme énoncé précedemment, vous allez pouvoir développement en utilisant du **code procédural** pour une base de données.
 
-Ceci a plusieurs intérêt :
+Ceci a plusieurs intérêts :
 - ajout de structures de contrôle au langage SQL (if/boucle...)
 - code dédié et optimisé pour le traitement des données et au SQL
 - permet d'effectuer des traitements complexes sur les données
@@ -75,7 +75,7 @@ Deux choses sont à faire sur DBeaver :
 
 ![Ajout de l'extension pldbgapi via DBeaver](img/dbg-add-extension.gif)
 
-### Création d'un fonction
+### Création d'une fonction
 
 La création d'une **fonction/procédure** peut se faire via l'utilisation de DBeaver comme présenté ci-dessous :
 
